@@ -24,10 +24,10 @@ $ sudo pip install mstream
 Or build from Source:
 
 ```
-$ git clone https://github.com/vaulstein/7daysOfCode.git
+$ git clone https://github.com/vaulstein/movie-streamer.git
 ```    
 ```
-$ cd 7daysOfCode/movie-streamer
+$ cd movie-streamer
 ```    
 ```   
 $ python setup.py install
